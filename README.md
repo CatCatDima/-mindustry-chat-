@@ -1,2 +1,2 @@
-# -mindustry-chat-
-New chat GUI
+# <mindustry>chat++
+New chat GUI and integrated matrix client
