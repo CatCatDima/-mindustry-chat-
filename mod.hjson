@@ -1,7 +1,7 @@
-name: "mod-name"
+name: "mindustry-chat-pp-matrix"
 displayName: "Chat++"
 author: CatCatDima
 description: "New chat GUI and integrated matrix client"
-version: "1.0"
+version: "0.0"
 dependencies: [ ]
-hidden: false
+hidden: true
