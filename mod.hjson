@@ -1,7 +1,7 @@
 name: "mod-name"
 displayName: "Chat++"
 author: CatCatDima
-description: "Bbfashbjhcbabfhsbafbhajbf"
+description: "New chat GUI and integrated matrix client"
 version: "1.0"
 dependencies: [ ]
 hidden: false
